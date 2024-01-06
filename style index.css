@@ -1,9 +1,12 @@
 nav{
     display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 nav >ul{
     display: flex;
     list-style: none;
+    align-items: center;
    
 
     
@@ -32,4 +35,9 @@ nav a{
 .bp{
     border-radius: 4px;
     background: orange;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight:700;
+    padding: 18px 35px;
 }
