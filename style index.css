@@ -125,5 +125,66 @@ main section{
     margin-top: 130px;
 
 }
+.rct{
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
+}
+.rs{
+    display: flex;
+    gap: 50px;
+
+}
+.rit{
+    color: #474747;
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.rii{
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+.rii,.rid{
+    color: #757575;
+}
+.rs hr{
+    margin: 30px;
+}
+.dcv{
+    text-align: center;
+    margin-top: 50px;
+}
+footer{
+    display: flex;
+    background-color: #fff8f3;
+    padding: 130px 200px;
+    margin-top: 100px;
+    gap: 100px;
+}
+.fimg{
+    height: 30px;
+    width: 30px;
+}
+.fc{
+    width: 50%;
+}
+.fct{
+    text-align: center;
+}
+.contact input[type="text"], .contact input[type="email"]
+,textarea{
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    color: #757575;
+    background: #fff;
+    border: 0;
+    width: 100%;
+}
+.sl a{
+margin-right: 25px;
+}
+
 
 
